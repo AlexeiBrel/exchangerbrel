@@ -7,12 +7,10 @@ import { AuthProvider } from './context/index.jsx'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <AuthProvider>
-    {/* <BrowserRouter> */}
-    <HashRouter>
+    <BrowserRouter>
       <React.StrictMode>
         <App />
       </React.StrictMode>
-    </HashRouter>
-    {/* </BrowserRouter> */}
+    </BrowserRouter>
   </AuthProvider>,
 )
