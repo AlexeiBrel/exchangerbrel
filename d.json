@@ -1,0 +1,45 @@
+[
+  {
+    "2024-03-17": [
+      {
+        "id": "1",
+        "currency_code": "USD",
+        "rate": "3.23"
+      },
+      {
+        "id": "3",
+        "currency_code": "EUR",
+        "rate": "3.55"
+      },
+      {
+        "id": "4",
+        "currency_code": "RUB",
+        "rate": "352.00"
+      },
+      {
+        "id": "6",
+        "currency_code": "BYN",
+        "rate": "0.99"
+      },
+      {
+        "id": "9",
+        "currency_code": "RAD",
+        "rate": "1245.00"
+      },
+      {
+        "id": "10",
+        "currency_code": "CDF",
+        "rate": "0.36"
+      }
+    ]
+  },
+  {
+    "2024-03-16": [
+      {
+        "id": "7",
+        "currency_code": "UAN",
+        "rate": "3.87"
+      }
+    ]
+  }
+]

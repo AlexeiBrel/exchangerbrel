@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 15px;
+
+    a {
+        display: inline-block;
+        text-decoration: none;
+        background-color: rgb(110, 110, 110);
+        color: #FFFFFF;
+        padding: 10px 25px;
+        border-radius: 10px;
+    }
+}
